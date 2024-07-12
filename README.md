@@ -2,8 +2,7 @@
 - 👀 I’m interested in Python 
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on Python and Web development
-- 📫 How to reach me contact me on insta @vasumr360
-- 😄 Pronouns: ...
+- 📫 How to reach me DM me on insta @vasumr360
 - ⚡ Fun fact: ... I like cricket more than coding still i code by watching match
 
 <!---
